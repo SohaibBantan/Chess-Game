@@ -1,4 +1,3 @@
-Chess Project
 Welcome to the Chess Project! This project involves working with 2D arrays and inheritance concepts to build a chess game.
 
 📜 Overview
@@ -16,18 +15,18 @@ Java Development Kit (JDK) version 8 or later
 
 Clone the repository to your local machine:
 
-bash
-Copy code
+
+-Copy code
 git clone https://github.com/your-username/chess-project.git
 cd chess-project
+
 Compile the project:
 
-bash
-Copy code
+- Copy code
 javac *.java
+
 Run the main class:
 
-bash
 Copy code
 java Main
 
