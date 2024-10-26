@@ -32,9 +32,13 @@ java Main
 
 📂 Project Structure
 Main.java: The entry point of the application.
+
 Board.java: Handles the chessboard and piece placement.
+
 Piece.java: The base class for all chess pieces.
+
 King.java, Queen.java, etc.: Subclasses that define specific chess pieces and their movements.
+
 🚀 Usage
 Start the program using the steps above.
 Follow the prompts to make moves as a player.
