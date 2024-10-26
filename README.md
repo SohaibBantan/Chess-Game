@@ -42,9 +42,12 @@ King.java, Queen.java, etc.: Subclasses that define specific chess pieces and th
 🚀 Usage
 Start the program using the steps above.
 Follow the prompts to make moves as a player.
+
 Enter chess moves using the following order. Row of piece, column of piece, end row destination, end column destination.
+
 📝 Notes
 This project implements basic chess logic but does not cover all complex rules of chess.
 Future improvements may include additional rules, a GUI, and enhanced AI.
+
 📧 Contact
 For any questions or feedback, feel free to reach out at sohaibantan2005@gmail.com
